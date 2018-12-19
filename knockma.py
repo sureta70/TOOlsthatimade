@@ -6,7 +6,6 @@
 # Licensed under the BSD-3-Clause
 from os import system
 from sys import stdout, exit
-from validate_email import validate_email
 results = []
 system('clear')
 BLUE, RED, WHITE, YELLOW, GREEN, END = '\33[94m', '\033[91m', '\33[97m', '\33[93m', '\033[1;32m', '\033[0m'
